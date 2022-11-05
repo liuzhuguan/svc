@@ -1,0 +1,3 @@
+{"level":"fatal","ts":"2022-11-05T14:57:22.030+0800","caller":"svc/main.go:171","msg":"Error 1071: Specified key was too long; max key length is 767 bytes"}
+{"level":"fatal","ts":"2022-11-05T15:02:58.759+0800","caller":"svc/main.go:171","msg":"Error 1071: Specified key was too long; max key length is 767 bytes"}
+{"level":"fatal","ts":"2022-11-05T15:23:13.154+0800","caller":"svc/main.go:171","msg":"Error 1050: Table 'svc' already exists"}
